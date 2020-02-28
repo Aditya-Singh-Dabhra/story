@@ -1,4 +1,0 @@
-this is chapter 1.
-
-this is for git version control
-how are you doing
